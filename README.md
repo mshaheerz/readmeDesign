@@ -2,7 +2,7 @@
       
 
 <img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=SHAHEEREZ&color=green">
-<img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
+<img title="creator" src="https://img.shields.io/static/v1?label=FROM&message=INDIA&color=blue">
 <br>
 <img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
