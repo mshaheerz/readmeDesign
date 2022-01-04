@@ -1,7 +1,7 @@
-<h1 align="center">Hi 
+<h1 align="center">
       
 
-<img title="IAM" src="https://img.shields.io/static/v1?label=IAM&message=SHAHEEREZ&color=green">
+<img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=SHAHEEREZ&color=green">
 <img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
 <br>
 <img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow"></h1>
