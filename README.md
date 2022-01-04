@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshaheerz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mshaheerz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshaheerz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mshaheerz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshaheerz&show_icons=true&theme=dark&locale=en" alt="mshaheerz" /></p>
 
