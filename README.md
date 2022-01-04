@@ -19,19 +19,19 @@
 <br>
 <hr>
 
-`- 🔭 I’m currently working on [expo21](https://github.com/mshaheerz/21expo)`
+`- 🔭 I’m currently working on [expo21](`https://github.com/mshaheerz/21expo`)`
 
-`- 🌱 I’m currently learning **python flask, flutter**`
+`- 🌱 I’m currently learning `**python flask, flutter**
 
-`- 👯 I’m looking to collaborate on [web-terminal(js)](https://github.com/mshaheerz/ledxlight.github.io)`
+`- 👯 I’m looking to collaborate on [web-terminal(js)](`https://github.com/mshaheerz/ledxlight.github.io`)`
 
-`- 🤝 I’m looking for help with [web-terminal](https://github.com/mshaheerz/ledxlight.github.io)`
+`- 🤝 I’m looking for help with [web-terminal](`https://github.com/mshaheerz/ledxlight.github.io`)`
 
-`- 👨‍💻 All of my projects are available at [http://github.com/mshaheerz](http://github.com/mshaheerz)`
+`- 👨‍💻 All of my projects are available at [`http://github.com/mshaheerz](http://github.com/mshaheerz`)`
 
-`- 💬 Ask me about **js**`
+`- 💬 Ask me about `**js**
 
-`- 📫 How to reach me **mshaheerkp99@gmail.com**`
+`- 📫 How to reach me `**mshaheerkp99@gmail.com**
 
 
 <h3 align="left"><img title="creator" src="https://img.shields.io/static/v1?label=CONNECT&message=WITH ME&color=black"></h3>
