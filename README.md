@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm muhammed shaheer</h1>
+<h1 align="center">Hi <img title="license" src="https://img.shields.io/github/license/mshaheerz/serverhost">
+<img title="issues" src="https://img.shields.io/github/issues/mshaheerz/serverhost">          
+           
+<br>
+<img title="tool" src="https://img.shields.io/static/v1?label=TOOL&message=SERVERHOST&color=green">
+<img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
+<br>
+<img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
