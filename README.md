@@ -1,8 +1,7 @@
-<h1 align="center">Hi <img title="license" src="https://img.shields.io/github/license/mshaheerz/serverhost">
-<img title="issues" src="https://img.shields.io/github/issues/mshaheerz/serverhost">          
-           
-<br>
-<img title="tool" src="https://img.shields.io/static/v1?label=TOOL&message=SERVERHOST&color=green">
+<h1 align="center">Hi 
+      
+
+<img title="IAM" src="https://img.shields.io/static/v1?label=TOOL&message=SHAHEEREZ&color=green">
 <img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
 <br>
 <img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow"></h1>
