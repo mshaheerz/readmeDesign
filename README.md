@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm muhammed shaheer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mshaheerz&theme=dark" alt="mshaheerz" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshaheerz&show_icons=true&theme=dark&locale=en" alt="mshaheerz" /></p>
