@@ -50,7 +50,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshaheerz" alt="mshaheerz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshaheerz" alt="mshaheerz" /></a> </p>
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shrzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shrzz" /></a></p><br><br>
