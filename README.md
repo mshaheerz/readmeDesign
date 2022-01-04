@@ -34,7 +34,6 @@
 
 - 📫 How to reach me **mshaheerkp99@gmail.com**
 
-- ⚡ Fun fact **Confused which language is learn....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
