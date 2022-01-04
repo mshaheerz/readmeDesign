@@ -1,10 +1,10 @@
 <h1 align="center">
       
 
-<img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=SHAHEEREZ&color=green">
-<img title="creator" src="https://img.shields.io/static/v1?label=FROM&message=INDIA&color=blue">
+<img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=SHAHEEREZ&color=black">
+<img title="creator" src="https://img.shields.io/static/v1?label=FROM&message=INDIA&color=black">
 <br>
-<img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow"></h1>
+<img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=blue"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
